@@ -13,6 +13,7 @@ Configuration
     git init
     git status
     git add .
+    git clean
     git stash ->  pop, clear
     git commit -m "message"
     git show 
@@ -31,6 +32,7 @@ Configuration
     git push origin new_branch
     git fetch --all --prune
     git reset --hard upstream/main
+    
 
 ```
 
